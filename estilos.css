@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+   background-color: rgb(104, 0, 165);
+   color: #ffffff;
+}
+.boton{
+    text-decoration: none;
+    color: #ffffff;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 7px;
+    display: inline-block;  
+}
+#opciones{
+    list-style: none;
+}
+#opciones li{
+    display: inline-block;
+    padding: 30px;
+}
+body{
+    background-color: rgb(255, 108, 54);
+}
+section{
+    margin-top: 60px;
+    background-color: #ffffff;
+}
